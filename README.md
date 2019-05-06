@@ -1,4 +1,5 @@
 # K8tools 20190428
+解压密码: k8gege 旧密码 k8team 或 K8team
 
 声明: 工具仅供安全研究或授权渗透，非法用途后果自负。<br>
 博客: https://www.cnblogs.com/k8gege<br>
